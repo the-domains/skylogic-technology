@@ -1,7 +1,7 @@
 name: SkyLogic Technology
 favicon: null
-layout_spectrum: 0.6849148746114224
-typography_spectrum: 0.9713017682079226
+layout_spectrum: 1
+typography_spectrum: 0.67573
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.6952868942171335
-  lightness: 0.20136155234649777
-  saturation: 0.6215901109389961
-  rhythmicContrast: 0.17942377552390099
+    - '#ffffff'
+    - '#72aecb'
+    - '#1374a5'
+    - '#5a5653'
+    - '#1c1b1a'
+  brandStrength: 0.5
+  lightness: 1
+  saturation: 0.5625
+  rhythmicContrast: 0.5
 purpose: []
